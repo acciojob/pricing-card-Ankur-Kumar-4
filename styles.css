@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+img{
+	width:44vw;
+	margin-left:2.9vw;
+	margin-top:2vw;
+}
+h1{
+	text-align:center;
+}
+p{
+	text-align:center;
+}
+.main{
+	background-color:#ededeb;
+	width:50vw;
+	margin-inline:auto;
+	padding:5vw;
+	box-shadow: 1px 1px 20px 1px ;
+	height:72vh;
+}
+.btn{
+	margin-left:19vw;
+	background-color:#fe625a;
+	color:white;
+	font-size:2.5vw;
+	border-radius:12px; 
+	border:none;
+	padding:15px;
+	width:15vw;
+	
+}
+
+
+
+
+
+
+
+
